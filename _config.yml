@@ -1,0 +1,33 @@
+# Site settings
+title: PLIODIS
+subtitle: Plio–Pleistocene Hominin Dispersal
+description: >-
+  Understanding hominin dispersal to southern Africa during the Plio–Pleistocene.
+url: "https://geopastore.github.io"
+baseurl: "/PLIODIS"
+
+# Theme
+remote_theme: mmistakes/minimal-mistakes@4.27.3
+minimal_mistakes_skin: default
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+# Logo
+logo: "/assets/images/LogoPLIODIS.png"
+
+# Navigation
+navigation: "main"
+  
+# Footer
+footer:
+  links:
+    - label: "ERC – European Research Council"
+      url: "https://erc.europa.eu"
+show_powered_by: false
+
+# Markdown
+markdown: kramdown
