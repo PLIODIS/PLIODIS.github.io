@@ -3,7 +3,7 @@ title: "PLIODIS"
 layout: splash
 classes: wide
 header:
-  overlay_image: /assets/images/Miombo.jpg
+  overlay_image: /assets/images/MiomboHead.jpg
   overlay_filter: 0.3
 ---
 
