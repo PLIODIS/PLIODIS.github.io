@@ -4,7 +4,7 @@ subtitle: Plio–Pleistocene Hominin Dispersal
 description: >-
   Understanding hominin dispersal to southern Africa during the Plio–Pleistocene.
 url: "https://pliodis.github.io/"
-baseurl: "/PLIODIS"
+baseurl: ""
 
 # Theme
 remote_theme: mmistakes/minimal-mistakes@4.27.3
