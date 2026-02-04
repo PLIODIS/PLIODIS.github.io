@@ -31,3 +31,5 @@ show_powered_by: false
 
 # Markdown
 markdown: kramdown
+
+rebuild: true
