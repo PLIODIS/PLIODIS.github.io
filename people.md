@@ -45,8 +45,10 @@ feature_row2:
     excerpt: "Collaborating Partner"
     url: "https://evolutionaryanthropology.duke.edu"
 ---
-![ZambeziRiver]({{ site.baseurl }}/assets/images/Zambezi3.jpg)
-
+## Institutions
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" %}
+
+
+![ZambeziRiver]({{ site.baseurl }}/assets/images/Zambezi3.jpg)
