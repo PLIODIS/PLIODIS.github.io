@@ -4,19 +4,29 @@
 
 @import "minimal-mistakes";
 
+/* Make the whole card a vertical flex container */
+.feature__item .archive__item {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+/* Logo container */
 .feature__item .archive__item-teaser {
   height: 140px;
   display: flex;
-  align-items: center;
-  justify-content: center; 
+  align-items: center;       /* vertical centering of logo */
+  justify-content: center;   /* horizontal centering */
 }
 
+/* Logo sizing */
 .feature__item .archive__item-teaser img {
-  max-height: 120px;
+  height: 120px;
   width: auto;
   object-fit: contain;
 }
 
-.feature__item .archive__item {
-  height: 100%;
+/* Text section */
+.feature__item .archive__item-body {
+   text-align: left;       /* optional but usually looks better */
 }
