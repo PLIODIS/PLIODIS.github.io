@@ -4,9 +4,14 @@
 
 @import "minimal-mistakes";
 
-/* Custom overrides go BELOW */
-.feature__item img {
+.feature__item .archive__item-teaser {
+  height: 140px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.feature__item .archive__item-teaser img {
   max-height: 120px;
   width: auto;
-  object-fit: contain;
 }
