@@ -11,38 +11,38 @@ feature_row:
   - image_path: /assets/images/institutions/amgc-vub.png
     alt: "AMGC–VUB logo"
     title: "AMGC–VUB"
-    excerpt: "Host Institution"
+    btn_label: "Host Institution"
     url: "https://amgc.research.vub.be"
 
   - image_path: /assets/images/institutions/wits-esi.png
     alt: "WITS Evolutionary Studies Institute logo"
     title: "WITS – Evolutionary Studies Institute"
-    excerpt: "Partner Institution"
+    btn_label: "Partner Institution"
     url: "https://www.wits.ac.za/esi/"
 
   - image_path: /assets/images/institutions/epoc-bordeaux.png
     alt: "EPOC Bordeaux logo"
     title: "EPOC – Bordeaux"
-    excerpt: "Partner Institution"
+    btn_label:  "Partner Institution"
     url: "https://epoc-umr.fr"
 
 feature_row2:
   - image_path: /assets/images/institutions/ucl.png
     alt: "University College London logo"
     title: "University College London"
-    excerpt: "Collaborating Partner"
+    btn_label: "Collaborating Partner"
     url: "https://www.ucl.ac.uk"
 
   - image_path: /assets/images/institutions/indiana.png
     alt: "Indiana University logo"
     title: "Indiana University"
-    excerpt: "Collaborating Partner"
+    btn_label: "Collaborating Partner"
     url: "https://earth.indiana.edu/directory/faculty/polly-p.html"
 
   - image_path: /assets/images/institutions/duke.png
     alt: "Duke University logo"
     title: "Duke University"
-    excerpt: "Collaborating Partner"
+    btn_label: "Collaborating Partner"
     url: "https://evolutionaryanthropology.duke.edu"
 ---
 ## Institutions
