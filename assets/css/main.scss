@@ -8,12 +8,13 @@
   height: 140px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .feature__item .archive__item-teaser img {
   max-height: 120px;
   width: auto;
+  object-fit: contain;
 }
 
 .feature__item .archive__item {
