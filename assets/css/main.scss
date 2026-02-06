@@ -1,0 +1,12 @@
+---
+# main Sass file needs front matter
+---
+
+@import "minimal-mistakes";
+
+/* Custom overrides go BELOW */
+.feature__item img {
+  max-height: 120px;
+  width: auto;
+  object-fit: contain;
+}
