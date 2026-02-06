@@ -25,6 +25,25 @@ feature_row:
     title: "EPOC – Bordeaux"
     excerpt: "Partner Institution"
     url: "https://epoc-umr.fr"
+
+feature_row2:
+  - image_path: /assets/images/institutions/ucl.png
+    alt: "University College London logo"
+    title: "University College London"
+    excerpt: "Collaborating Partner"
+    url: "https://www.ucl.ac.uk"
+
+  - image_path: /assets/images/institutions/indiana.png
+    alt: "Indiana University logo"
+    title: "Indiana University"
+    excerpt: "Collaborating Partner"
+    url: "https://earth.indiana.edu/directory/faculty/polly-p.html"
+
+  - image_path: /assets/images/institutions/duke.png
+    alt: "Duke University logo"
+    title: "Duke University"
+    excerpt: "Collaborating Partner"
+    url: "https://evolutionaryanthropology.duke.edu"
 ---
 ![ZambeziRiver]({{ site.baseurl }}/assets/images/Zambezi3.jpg)
 
