@@ -12,6 +12,11 @@ header:
 
 The PLIODIS project integrates geomorphology, palaeoclimate reconstruction, fossil morphology, and quantitative modeling to investigate hominin dispersal into southern Africa during the Plio–Pleistocene. Research is organized into three interconnected components.
 
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/science/Intro.png" alt="Introduction" width="800"><br>
+  <em></em>
+</p>
+
 ---
 
 ## I. Geomorphology & Palaeoclimate
@@ -21,6 +26,11 @@ This sub-project reconstructs the evolution of drainage systems in the Kalahari 
 
 ### SP I.2. Palaeoclimate and Palaeoenvironment  
 Multiproxy palaeoclimatic data are used to reconstruct past precipitation regimes, vegetation structure, and environmental variability. These reconstructions provide the environmental context within which hominins dispersed, adapted, or became isolated.
+
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/science/Chi.png" alt="Chimap" width="800"><br>
+  <em>Courtesy of M.Fox</em>
+</p>
 
 ---
 
@@ -39,7 +49,7 @@ Kinematic modeling is used to simulate movement patterns and joint mechanics. Th
 Geometric morphometrics and statistical modeling quantify shape variation, disparity, and evolutionary change within and between hominin groups across regions and time periods.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/science/Macho2017.png" alt="Macho et al. 2017" width="800">
+  <img src="{{ site.baseurl }}/assets/images/science/Macho2017.png" alt="Macho et al. 2017" width="800"><br>
   <em>Macho et al. (2017)</em>
 </p>
 
