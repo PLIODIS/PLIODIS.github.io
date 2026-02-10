@@ -13,7 +13,7 @@ header:
 The PLIODIS project integrates geomorphology, palaeoclimate reconstruction, fossil morphology, and quantitative modeling to investigate hominin dispersal into southern Africa during the Plio–Pleistocene. Research is organized into three interconnected components.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/science/Intro.png" alt="Introduction" width="1200"><br>
+  <img src="{{ site.baseurl }}/assets/images/science/Intro.png" alt="Introduction" width="1500"><br>
   <em></em>
 </p>
 
