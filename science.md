@@ -39,7 +39,8 @@ Kinematic modeling is used to simulate movement patterns and joint mechanics. Th
 Geometric morphometrics and statistical modeling quantify shape variation, disparity, and evolutionary change within and between hominin groups across regions and time periods.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/science/Macho2017.png" alt="Macho et al. 2017" width="300">
+  <img src="{{ site.baseurl }}/assets/images/science/Macho2017.png" alt="Macho et al. 2017" width="800">
+  <em>Macho et al. (2017)</em>
 </p>
 
 ---
