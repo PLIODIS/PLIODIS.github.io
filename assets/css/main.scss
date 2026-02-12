@@ -30,3 +30,36 @@
 .feature__item .archive__item-body {
    text-align: left;       /* optional but usually looks better */
 }
+
+/* ===============================
+   Custom Hero Layout (Homepage)
+   =============================== */
+
+.hero-custom {
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+  margin-top: -260px;   /* Pull content upward into header */
+  padding: 2rem 4rem;
+  position: relative;
+  z-index: 10;
+}
+
+/* Logo */
+.hero-logo img {
+  max-width: 320px;
+  height: auto;
+}
+
+/* Title */
+.hero-text h1 {
+  color: #3a3a3a;
+  font-size: 2.2rem;
+  font-weight: 600;
+  max-width: 700px;
+}
+
+/* Optional: remove default splash title spacing */
+.page__hero--overlay .page__title {
+  display: none;
+}
