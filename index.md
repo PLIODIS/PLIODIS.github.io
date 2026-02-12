@@ -25,9 +25,9 @@ Modern humans are unique in their ability to adapt to, and to thrive in, differe
 Did human behavioural and physiological flexibility evolve early in our evolutionary history? Alternatively, did Pliocene hominins occupy such temperate zones due to different palaeoclimatic conditions in deep time and/or stochastic events?
 
 To untangle these questions, this project will:
-**TEST**
 
-1. [Determine geomorphological and palaeoecological changes in the Kalahari/proto-Limpopo basin]({%{{ site.baseurl }}/science/#i-geomorphology--palaeoclimate%})
+
+1. Determine geomorphological and palaeoecological changes in the Kalahari/proto-Limpopo basin
 2. Create dynamic palaeo-precipitation and palaeo-vegetation models from multiple archives  
 3. Carry out detailed anatomical, functional, and morphometric analyses of the hominin fossil record  
 4. Integrate these datasets to evaluate species diversity (functional adaptations), gene flow (hybridization), and dispersal scenarios (palaeobiogeography)
