@@ -26,7 +26,6 @@ Did human behavioural and physiological flexibility evolve early in our evolutio
 
 To untangle these questions, this project will:
 
-
 1. Determine geomorphological and palaeoecological changes in the Kalahari/proto-Limpopo basin
 2. Create dynamic palaeo-precipitation and palaeo-vegetation models from multiple archives  
 3. Carry out detailed anatomical, functional, and morphometric analyses of the hominin fossil record  
