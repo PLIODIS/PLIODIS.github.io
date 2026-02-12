@@ -26,13 +26,7 @@ Did human behavioural and physiological flexibility evolve early in our evolutio
 
 To untangle these questions, this project will:
 
-1. Determine geomorphological and palaeoecological changes in the Kalahari/proto-Limpopo basin  
+1. [Determine geomorphological and palaeoecological changes in the Kalahari/proto-Limpopo basin]({%{{ site.baseurl }}/science.md %})
 2. Create dynamic palaeo-precipitation and palaeo-vegetation models from multiple archives  
 3. Carry out detailed anatomical, functional, and morphometric analyses of the hominin fossil record  
 4. Integrate these datasets to evaluate species diversity (functional adaptations), gene flow (hybridization), and dispersal scenarios (palaeobiogeography)
-
-### Three key working hypotheses
-
-1. **>2.6 Ma** — East African hominin ranges expanded and contracted in response to wet and dry phases; periodically, southernmost populations became reproductively isolated. Early South African hominins represent descendants of *Australopithecus anamensis* and *Australopithecus afarensis*.  
-2. **~2.6–1.5 Ma** — With the onset of Northern Hemisphere Glaciation and re-organization of drainage patterns in the Kalahari basin, dispersal corridors repeatedly closed and opened, resulting in intermittent gene flow between East African and South African hominins.  
-3. **<~1.5 Ma** — Tectonic and hydrographic changes led to the Zambezi River becoming a major barrier. Younger South African hominins likely reflect endemism, with competitive exclusion driving exploitation of distinct ecological niches.
