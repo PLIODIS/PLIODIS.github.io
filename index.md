@@ -7,6 +7,15 @@ header:
   overlay_filter: 0.3
 ---
 
+<div class="hero-custom">
+  <div class="hero-logo">
+    <img src="{{ site.baseurl }}/assets/images/LogoPLIODIS.png" alt="PLIODIS logo">
+  </div>
+
+  <div class="hero-text">
+    <h1>Pliocene Hominin Dispersal to southern Africa: Choice or Chance?</h1>
+  </div>
+</div>
 
 # Pliocene Hominin Dispersal to southern Africa: Choice or Chance?
 
