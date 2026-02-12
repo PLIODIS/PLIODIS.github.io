@@ -6,7 +6,6 @@ header:
   overlay_image: /assets/images/MiomboHead.jpg
   overlay_filter: 0.3
 ---
-
 <div class="hero-custom">
   <div class="hero-logo">
     <img src="{{ site.baseurl }}/assets/images/LogoPLIODIS.png" alt="PLIODIS logo">
@@ -16,7 +15,6 @@ header:
     <h1>Pliocene Hominin Dispersal to southern Africa: Choice or Chance?</h1>
   </div>
 </div>
-
 
 ## Understanding hominin dispersal to southern Africa in the Plio–Pleistocene
 
