@@ -2,7 +2,8 @@
 # main Sass file needs front matter
 ---
 
-@import "minimal-mistakes";
+@import "minimal-mistakes/skins/mint";  
+@import "minimal-mistakes";             
 
 /* Make the whole card a vertical flex container */
 .feature__item .archive__item {
