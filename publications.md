@@ -4,7 +4,7 @@ layout: splash
 classes: wide
 permalink: /publications/
 header:
-  overlay_image: /assets/images/Zambezi3.jpg
+  overlay_image: /assets/images/Kalahari.jpg
   overlay_filter: 0.3
 ---
 ## List of Publications
