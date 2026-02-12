@@ -17,9 +17,6 @@ header:
   </div>
 </div>
 
-# Pliocene Hominin Dispersal to southern Africa: Choice or Chance?
-
-<img src="{{ site.baseurl }}/assets/images/LogoPLIODIS.png" alt="PLIODIS logo" style="max-width: 350px; margin: 1.5rem auto; display: block;">
 
 ## Understanding hominin dispersal to southern Africa in the Plio–Pleistocene
 
