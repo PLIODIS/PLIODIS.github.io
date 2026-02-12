@@ -39,7 +39,7 @@
   display: flex;
   align-items: center;
   gap: 4rem;
-  margin-top: -260px;   /* Pull content upward into header */
+  margin-top: -220px;   /* Pull content upward into header */
   padding: 2rem 4rem;
   position: relative;
   z-index: 10;
@@ -54,8 +54,8 @@
 /* Title */
 .hero-text h1 {
   color: #3a3a3a;
-  font-size: 2.2rem;
-  font-weight: 600;
+  font-size: 1.8rem;
+  font-weight: 700;
   max-width: 700px;
 }
 
