@@ -10,7 +10,7 @@ header:
 
 ## Scientific Framework
 
-The PLIODIS project integrates geomorphology, palaeoclimate reconstruction, fossil morphology, and quantitative modeling to investigate hominin dispersal into southern Africa during the Plio–Pleistocene. Research is organized into three interconnected components.
+The PLIODIS project integrates geomorphology, palaeoclimate and palaeovegetation reconstruction, hominin fossil functional morphology, and quantitative modeling to investigate hominin dispersal into southern Africa during the Plio–Pleistocene. Research is organized into three interconnected components, whilst various modeling approaches aim to combine the outcomes of the various strands of investigation within a coherent evolutionary framework.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/science/Intro.png" alt="Introduction" width="1500"><br>
@@ -19,12 +19,14 @@ The PLIODIS project integrates geomorphology, palaeoclimate reconstruction, foss
 
 ---
 
-## I. Geomorphology & Palaeoclimate
+## I. Geomorphology
 
-### SP I.1. Drainage Pattern Evolution  
+### Drainage Pattern Evolution  
 This sub-project reconstructs the evolution of drainage systems in the Kalahari and proto-Limpopo basin. Changes in river networks, basin connectivity, and topography are examined to identify potential dispersal corridors and barriers influencing hominin movement through time.
 
-### SP I.2. Palaeoclimate and Palaeoenvironment  
+---
+
+## II. Palaeoclimate and Palaeoenvironment  
 Multiproxy palaeoclimatic data are used to reconstruct past precipitation regimes, vegetation structure, and environmental variability. These reconstructions provide the environmental context within which hominins dispersed, adapted, or became isolated.
 
 <p align="center">
@@ -34,19 +36,22 @@ Multiproxy palaeoclimatic data are used to reconstruct past precipitation regime
 
 ---
 
-## II. Morphology
+## III. Morphology
 
-### SP II.1. Functional Types  
+### Mammalian Communities  
 Hominin fossils are analysed to identify functional anatomical patterns related to locomotion, manipulation, and ecological adaptation. This approach helps assess whether southern African hominins occupied distinct adaptive niches.
 
-### SP II.2. Function and Biomechanics  
+### Functional adaptations of early hominins   
 Biomechanical analyses investigate how skeletal morphology reflects functional performance. These studies evaluate locomotor efficiency, loading regimes, and potential behavioural differences among hominin populations.
 
-### SP II.3. Kinematics  
-Kinematic modeling is used to simulate movement patterns and joint mechanics. This allows inference of habitual behaviours and functional constraints under different environmental conditions.
+___
 
-### SP II.4. Quantitative Analyses  
+## IV. Modelling approaches
+
+### Quantitative Analyses  
 Geometric morphometrics and statistical modeling quantify shape variation, disparity, and evolutionary change within and between hominin groups across regions and time periods.
+
+### Testing dispersion scenarios
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/science/Macho2017.png" alt="Macho et al. 2017" width="800"><br>
