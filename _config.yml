@@ -25,7 +25,7 @@ navigation: "main"
 # Footer
 footer:
   links:
-    - label: "ERC – European Research Council"
+    - label: "ERC – European Research Council 101141770"
       url: "https://erc.europa.eu"
 show_powered_by: false
 
