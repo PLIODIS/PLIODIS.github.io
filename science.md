@@ -53,11 +53,6 @@ Geometric morphometrics and statistical modeling quantify shape variation, dispa
 
 ### Testing dispersion scenarios
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/science/Macho2017.png" alt="Macho et al. 2017" width="800"><br>
-  <em>Macho et al. (2017)</em>
-</p>
-
 ---
 
 ## III. Validation and Integration
