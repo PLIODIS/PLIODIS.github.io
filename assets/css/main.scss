@@ -64,3 +64,41 @@
 .page__hero--overlay .page__title {
   display: none;
 }
+
+/* ===============================
+   Custom removal of logo (Homepage)
+   =============================== */
+.home-header {
+  width: 100%;
+  background: white;
+  padding: 1rem 2rem;
+}
+
+.home-header__inner {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}In
+
+.home-header__logo img {
+  height: 50px;
+}
+
+.home-header__nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.home-header__nav li {
+  margin-left: 2rem;
+}
+
+.home-header__nav a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #333;
+}
