@@ -5,21 +5,15 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
 
-        {%- comment -%} Determine if we should hide logo/title {%- endcomment -%}
-        {% assign hide_logo_title = false %}
-        {% if page.url == "/" or page.layout == "landing" %}
-          {% assign hide_logo_title = true %}
-        {% endif %}
-
-        {%- comment -%} Logo: show unless explicitly hidden {%- endcomment -%}
-        {% unless logo_path == empty or hide_logo_title %}
+        {%- comment -%} Logo: hide on landing page {%- endcomment -%}
+        {% unless logo_path == empty or page.layout == "landing" %}
           <a class="site-logo" href="{{ '/' | relative_url }}">
             <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
           </a>
         {% endunless %}
 
-        {%- comment -%} Site title and subtitle: show unless explicitly hidden {%- endcomment -%}
-        {% unless hide_logo_title %}
+        {%- comment -%} Site title and subtitle: hide on landing page {%- endcomment -%}
+        {% unless page.layout == "landing" %}
           <a class="site-title" href="{{ '/' | relative_url }}">
             {{ site.masthead_title | default: site.title | escape_once | strip }}
             {% if site.subtitle %}
