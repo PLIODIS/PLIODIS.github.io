@@ -1,11 +1,10 @@
 ---
 title: "PLIODIS"
-layout: splash
+layout: landing
 classes: wide
 header:
   overlay_image: /assets/images/MiomboHead.jpg
   overlay_filter: 0.3
-  logo: false
 ---
 
 <div class="hero-custom">
