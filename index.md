@@ -2,11 +2,14 @@
 title: "PLIODIS"
 layout: splash
 classes: wide
+masthead:false
 header:
   overlay_image: /assets/images/MiomboHead.jpg
   overlay_filter: 0.3
   logo:
 ---
+{% include home-header.html %}
+
 <div class="hero-custom">
   <div class="hero-logo">
     <img src="{{ site.baseurl }}/assets/images/LogoPLIODIS.png" alt="PLIODIS logo">
