@@ -1,0 +1,21 @@
+<div class="home-header">
+  <div class="home-header__inner">
+    
+    <div class="home-header__logo">
+      <a href="{{ '/' | relative_url }}">
+        <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
+      </a>
+    </div>
+
+    <nav class="home-header__nav">
+      <ul>
+        {% for link in site.data.navigation.main %}
+          <li>
+            <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+  </div>
+</div>
