@@ -5,7 +5,7 @@ classes: wide
 header:
   overlay_image: /assets/images/MiomboHead.jpg
   overlay_filter: 0.3
-  logo:
+  logo:false
 ---
 
 <div class="hero-custom">
