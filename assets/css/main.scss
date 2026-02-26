@@ -60,3 +60,7 @@
   max-width: 700px;
 }
 
+/* remove default splash title spacing ONLY on homepage */
+body.layout-landing .page__hero--overlay .page__title {
+  display: none;
+}
