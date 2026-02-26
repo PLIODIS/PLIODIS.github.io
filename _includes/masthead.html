@@ -12,15 +12,17 @@
           </a>
         {% endunless %}
 
-        {%- comment -%} Site title and subtitle {%- endcomment -%}
-        <a class="site-title" href="{{ '/' | relative_url }}">
-          {{ site.masthead_title | default: site.title | escape_once | strip }}
-          {% if site.subtitle %}
-            <span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>
-          {% endif %}
-        </a>
+        {%- comment -%} Site title and subtitle: hide on landing page {%- endcomment -%}
+        {% unless page.layout == "landing" %}
+          <a class="site-title" href="{{ '/' | relative_url }}">
+            {{ site.masthead_title | default: site.title | escape_once | strip }}
+            {% if site.subtitle %}
+              <span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>
+            {% endif %}
+          </a>
+        {% endunless %}
 
-        {%- comment -%} Main navigation links {%- endcomment -%}
+        {%- comment -%} Main navigation links (always visible) {%- endcomment -%}
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
