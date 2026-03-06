@@ -1,5 +1,5 @@
 ---
-title: "PLIODIS"
+title: ""
 layout: landing
 classes: wide
 header:
