@@ -38,17 +38,22 @@
 
 .hero-custom {
   display: flex;
-  align-items: left;
+  align-items: flex-start;
   gap: 4rem;
-  margin-top: -120px;   /* Pull content upward into header */
+  margin-top: -150px;   /* Pull content upward into header */
   padding: 2rem 4rem;
   position: relative;
   z-index: 10;
 }
 
 /* Logo */
+.hero-logo {
+  flex-shrink: 0;
+  margin-left: -2rem;
+}
+
 .hero-logo img {
-  max-width: 320px;
+  max-width: 340px;
   height: auto; 
 }
 
