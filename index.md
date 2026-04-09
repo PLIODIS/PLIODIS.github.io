@@ -31,12 +31,12 @@ header:
       <p>How did drainage systems and topography shape dispersal corridors into southern Africa?</p>
     </div>
     <div class="highlight-card">
-      <span class="highlight-icon">🌿</span>
+      <img src="assets/images/Baobab.jpg" alt="Environment icon icon" class="highlight-icon">
       <h3>Environment</h3>
       <p>What role did climate shifts and vegetation change play in opening or closing migration routes?</p>
     </div>
     <div class="highlight-card">
-      <span class="highlight-icon">🦴</span>
+      <img src="assets/images/Taung.jpg" alt="Biology icon" class="highlight-icon">
       <h3>Biology</h3>
       <p>Did functional adaptation and gene flow connect eastern and southern African hominin populations?</p>
     </div>
@@ -50,7 +50,7 @@ header:
     <a href="{{ site.baseurl }}/science/#sp-i1-drainage-pattern-evolution" class="objective-card">
       <div class="obj-number">01</div>
       <h3>Geomorphology</h3>
-      <p>Reconstruct drainage pattern evolution in the Kalahari/proto-Limpopo basin and Zambezian region</p>
+      <p>Determine geomorphological and palaeoecological changes in the Kalahari/proto-Limpopo basin and Zambezian region</p>
     </a>
 
     <a href="{{ site.baseurl }}/science/#sp-i2-palaeoclimate-and-palaeoenvironment" class="objective-card">
@@ -62,18 +62,14 @@ header:
     <a href="{{ site.baseurl }}/science/#ii-morphology" class="objective-card">
       <div class="obj-number">03</div>
       <h3>Morphology</h3>
-      <p>Carry out anatomical, functional, and morphometric analyses of the hominin fossil record</p>
+      <p>Carry out detailed anatomical, functional, and morphometric analyses of the hominin fossil record</p>
     </a>
 
     <a href="{{ site.baseurl }}/science/#iii-validation-and-integration" class="objective-card">
       <div class="obj-number">04</div>
       <h3>Integration</h3>
-      <p>Evaluate species diversity, gene flow, and dispersal scenarios through quantitative modelling</p>
+      <p>Integrate these various datasets to evaluate species diversity (functional adaptations), gene flow (hybridization), and dispersal scenarios (palaeobiogeography)</p>
     </a>
 
   </div>
-</div>
-
-<div class="home-funding">
-  <p>PLIODIS is funded by the European Research Council (ERC) under grant agreement No. 101141770.</p>
 </div>
