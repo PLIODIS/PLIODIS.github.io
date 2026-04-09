@@ -40,7 +40,7 @@
   display: flex;
   align-items: center;
   gap: 2rem;
-  margin-top: -120px;   /* Pull content upward into header */
+  margin-top: -140px;   /* Pull content upward into header */
   padding: 2rem 4rem;
   position: relative;
   z-index: 10;
@@ -49,18 +49,18 @@
 /* Logo */
 .hero-logo {
   flex-shrink: 0;
-  margin-left: -4rem;
+  margin-left: -2rem;
 }
 
 .hero-logo img {
-  max-width: 340px;
+  max-width: 380px;
   height: auto; 
 }
 
 /* Title */
 .hero-text h1 {
   color: #40514e;
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-weight: 700;
   max-width: 700px;
   text-align: center; 
@@ -71,6 +71,120 @@ body.layout-landing .page__hero--overlay .page__title {
   display: none;
 }
 
-.page__hero--overlay .page__title {
-  display: none;
+.page__hero--overlay {
+  min-height: 300px; /* adjust to taste, default is around 200px */
+}
+
+/* ===============================
+   Institution grid
+   =============================== */
+
+.institution-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.institution-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+  padding: 1rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  transition: box-shadow 0.2s ease;
+}
+
+.institution-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-decoration: none;
+}
+
+.institution-card img {
+  height: 80px;
+  width: auto;
+  object-fit: contain;
+  margin-bottom: 0.75rem;
+}
+
+.inst-name {
+  font-weight: 600;
+  font-size: 0.85rem;
+  margin: 0 0 0.2rem;
+}
+
+.inst-role {
+  font-size: 0.75rem;
+  color: #777;
+  margin: 0;
+  font-style: italic;
+}
+
+/* ===============================
+   Team grid
+   =============================== */
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.team-member {
+  text-align: center;
+}
+
+.team-member img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 0.75rem;
+  border: 3px solid #e0e0e0;
+}
+
+.team-member h3 {
+  margin: 0 0 0.2rem;
+  font-size: 1rem;
+}
+
+.team-member .role {
+  font-weight: 600;
+  font-size: 0.82rem;
+  color: #40514e;
+  margin: 0 0 0.2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.team-member .expertise {
+  font-size: 0.82rem;
+  color: #555;
+  margin: 0 0 0.3rem;
+  font-style: italic;
+}
+
+.team-member .email {
+  font-size: 0.78rem;
+  margin: 0;
+}
+
+.team-member .email a {
+  color: #777;
+  text-decoration: none;
+}
+
+.team-member .email a:hover {
+  text-decoration: underline;
+}
+
+.team-member .institution {
+  font-size: 0.82rem;
+  color: #40514e;
+  margin: 0 0 0.2rem;
 }
