@@ -2,34 +2,24 @@
 # main Sass file needs front matter
 ---
 
-@import "minimal-mistakes/skins/mint";  
-@import "minimal-mistakes";             
+@import "minimal-mistakes/skins/mint";
+@import "minimal-mistakes";
 
-/* Make the whole card a vertical flex container */
-.feature__item .archive__item {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
+/* ===============================
+   Inner page header height
+   =============================== */
+
+.page__hero--overlay {
+  min-height: 300px;
+  padding: 4em 0;
 }
 
-/* Logo container */
-.feature__item .archive__item-teaser {
-  height: 140px;
-  display: flex;
-  align-items: center;       /* vertical centering of logo */
-  justify-content: center;   /* horizontal centering */
-}
+/* ===============================
+   Hide title ONLY on landing/homepage
+   =============================== */
 
-/* Logo sizing */
-.feature__item .archive__item-teaser img {
-  height: 120px;
-  width: auto;
-  object-fit: contain;
-}
-
-/* Text section */
-.feature__item .archive__item-body {
-   text-align: left;       /* optional but usually looks better */
+body.layout-landing .page__hero--overlay .page__title {
+  display: none;
 }
 
 /* ===============================
@@ -40,39 +30,42 @@
   display: flex;
   align-items: center;
   gap: 2rem;
-  margin-top: -140px;   /* Pull content upward into header */
+  margin-top: -120px;
   padding: 2rem 4rem;
   position: relative;
   z-index: 10;
 }
 
-/* Logo */
 .hero-logo {
   flex-shrink: 0;
-  margin-left: -2rem;
+  margin-left: -4rem;
 }
 
 .hero-logo img {
-  max-width: 380px;
-  height: auto; 
+  max-width: 420px;
+  height: auto;
 }
 
-/* Title */
 .hero-text h1 {
   color: #40514e;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   font-weight: 700;
   max-width: 700px;
-  text-align: center; 
+  text-align: center;
 }
 
-/* remove default splash title spacing ONLY on homepage */
-body.layout-landing .page__hero--overlay .page__title {
-  display: none;
-}
+/* ===============================
+   Science page images
+   =============================== */
 
-.page__hero--overlay {
-  min-height: 300px; /* adjust to taste, default is around 200px */
+.science-figure {
+  display: block;
+  width: 100%;
+  max-width: 800px;
+  height: 400px;
+  object-fit: cover;
+  margin: 1.5rem auto;
+  border-radius: 4px;
 }
 
 /* ===============================
@@ -162,6 +155,12 @@ body.layout-landing .page__hero--overlay .page__title {
   letter-spacing: 0.04em;
 }
 
+.team-member .institution {
+  font-size: 0.82rem;
+  color: #40514e;
+  margin: 0 0 0.2rem;
+}
+
 .team-member .expertise {
   font-size: 0.82rem;
   color: #555;
@@ -181,10 +180,4 @@ body.layout-landing .page__hero--overlay .page__title {
 
 .team-member .email a:hover {
   text-decoration: underline;
-}
-
-.team-member .institution {
-  font-size: 0.82rem;
-  color: #40514e;
-  margin: 0 0 0.2rem;
 }
