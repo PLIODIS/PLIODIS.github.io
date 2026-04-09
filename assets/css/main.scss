@@ -274,7 +274,7 @@ body.layout-landing .site-logo {
   padding: 1.5rem;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start; /* before was center */
   overflow-y: auto;
 }
 
@@ -292,6 +292,7 @@ body.layout-landing .site-logo {
   margin: 0.5rem 0 0.25rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+  padding-top: 0.5rem;
 }
 
 .flip-card-back p {
@@ -299,6 +300,7 @@ body.layout-landing .site-logo {
   color: rgba(255,255,255,0.9);
   margin: 0 0 0.5rem;
   line-height: 1.5;
+  padding-top: 0.5rem;
 }
 
 /* ===============================
