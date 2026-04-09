@@ -85,7 +85,7 @@ body.layout-landing .site-logo {
 }
 
 .home-highlight-band h2 {
-  margin-bottom: 2rem;
+  margin-bottom: 0.5rem;
   color: #40514e;
 }
 
@@ -107,7 +107,7 @@ body.layout-landing .site-logo {
   background: white;
   border-radius: 8px;
   padding: 1.5rem;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  /*box-shadow: 0 2px 8px rgba(0,0,0,0.07);*/
 }
 
 .highlight-card .highlight-icon {
@@ -128,13 +128,12 @@ body.layout-landing .site-logo {
 }
 
 .home-objectives {
-  padding: 3rem 2rem;
-  max-width: 1000px;
+  padding: 2rem 1rem;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
 .home-objectives h2 {
-  text-align: center;
   color: #40514e;
   margin-bottom: 2rem;
 }
