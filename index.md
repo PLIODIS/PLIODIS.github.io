@@ -6,7 +6,6 @@ header:
   overlay_image: /assets/images/MiomboHead.jpg
   overlay_filter: 0.3
 ---
-
 <div class="hero-custom">
   <div class="hero-logo">
     <img src="{{ site.baseurl }}/assets/images/LogoPLIODIS.png" alt="PLIODIS logo">
