@@ -201,13 +201,14 @@ body.layout-landing .site-logo {
    =============================== */
 
 .science-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; 
   gap: 1.5rem;
-  margin: 2rem 0;
 }
 
 .flip-card {
+  width: calc(33.333% - 1rem);
   height: 320px;
   perspective: 1000px;
   cursor: pointer;

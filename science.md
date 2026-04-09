@@ -10,7 +10,7 @@ header:
 
 ## Scientific Framework
 
-The PLIODIS project integrates geomorphology, palaeoclimate and palaeovegetation reconstruction, hominin fossil functional morphology, and quantitative modeling to investigate hominin dispersal into southern Africa during the Plio–Pleistocene. Research is organized into three interconnected components, whilst various modeling approaches aim to combine the outcomes of the various strands of investigation within a coherent evolutionary framework.
+The **PLIODIS** project integrates geomorphology, palaeoclimate and palaeovegetation reconstruction, hominin fossil functional morphology, and quantitative modeling to investigate hominin dispersal into southern Africa during the Plio–Pleistocene. Research is organized into three interconnected components, whilst various modeling approaches aim to combine the outcomes of the various strands of investigation within a coherent evolutionary framework.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/science/Intro.png" alt="Introduction" width="1500"><br>
