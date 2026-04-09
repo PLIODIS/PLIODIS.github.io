@@ -12,7 +12,7 @@ header:
   </div>
   <div class="hero-text">
     <h1>Pliocene Hominin Dispersal to southern Africa:</h1>
-    <br><h1>Choice or Chance?</h1>
+    <h1>Choice or Chance?</h1>
   </div>
 </div>
 
