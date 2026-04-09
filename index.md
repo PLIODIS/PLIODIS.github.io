@@ -26,12 +26,12 @@ header:
   <h2>Three Key Questions</h2>
   <div class="highlight-grid">
     <div class="highlight-card">
-      <span class="highlight-icon">🏔</span>
+      <img src="assets/images/Landscape.jpg" alt="Landscape icon" class="highlight-icon">
       <h3>Landscape</h3>
       <p>How did drainage systems and topography shape dispersal corridors into southern Africa?</p>
     </div>
     <div class="highlight-card">
-      <img src="assets/images/Baobab.jpg" alt="Environment icon icon" class="highlight-icon">
+      <img src="assets/images/Baobab.jpg" alt="Environment icon" class="highlight-icon">
       <h3>Environment</h3>
       <p>What role did climate shifts and vegetation change play in opening or closing migration routes?</p>
     </div>
@@ -47,19 +47,19 @@ header:
   <h2>Research Objectives</h2>
   <div class="objective-grid">
 
-    <a href="{{ site.baseurl }}/science/#sp-i1-drainage-pattern-evolution" class="objective-card">
+    <a href="{{ site.baseurl }}/science/#i-geomorphology" class="objective-card">
       <div class="obj-number">01</div>
       <h3>Geomorphology</h3>
       <p>Determine geomorphological and palaeoecological changes in the Kalahari/proto-Limpopo basin and Zambezian region</p>
     </a>
 
-    <a href="{{ site.baseurl }}/science/#sp-i2-palaeoclimate-and-palaeoenvironment" class="objective-card">
+    <a href="{{ site.baseurl }}/science/#ii-palaeoclimate-and-palaeoenvironment" class="objective-card">
       <div class="obj-number">02</div>
       <h3>Palaeoclimate</h3>
       <p>Create dynamic palaeo-precipitation and palaeo-vegetation models from multiple archives</p>
     </a>
 
-    <a href="{{ site.baseurl }}/science/#ii-morphology" class="objective-card">
+    <a href="{{ site.baseurl }}/science/#iii-morphology" class="objective-card">
       <div class="obj-number">03</div>
       <h3>Morphology</h3>
       <p>Carry out detailed anatomical, functional, and morphometric analyses of the hominin fossil record</p>
