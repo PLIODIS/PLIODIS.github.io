@@ -31,7 +31,7 @@ header:
       <p>How did drainage systems and topography shape dispersal corridors into southern Africa?</p>
     </div>
     <div class="highlight-card">
-      <img src="assets/images/Baobab.jpg" alt="Environment icon" class="highlight-icon">
+      <img src="assets/images/Baobab1.jpg" alt="Environment icon" class="highlight-icon">
       <h3>Environment</h3>
       <p>What role did climate shifts and vegetation change play in opening or closing migration routes?</p>
     </div>
