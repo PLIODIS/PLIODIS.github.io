@@ -42,6 +42,7 @@ The PLIODIS project integrates geomorphology, palaeoclimate and palaeovegetation
         <div class="flip-label">II. Palaeoclimate & Environment</div>
       </div>
       <div class="flip-card-back">
+        <h4>Climate and Environment</h4>
         <p>Multiproxy palaeoclimatic data are used to reconstruct past precipitation regimes, vegetation structure, and environmental variability. These reconstructions provide the environmental context within which hominins dispersed, adapted, or became isolated.</p>
       </div>
     </div>
