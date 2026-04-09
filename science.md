@@ -18,9 +18,6 @@ The PLIODIS project integrates geomorphology, palaeoclimate and palaeovegetation
 </p>
 
 ---
-
----
-
 ## Research Components
 
 <div class="science-grid">
