@@ -78,10 +78,10 @@ body.layout-landing .site-logo {
 }
 
 .home-highlight-band {
-  background-color: #f0f4f0;
+  /*background-color: #f0f4f0;*/
   padding: 0rem 0rem;
   margin: 2rem 0;
-  text-align: justify;
+  text-align: left;
 }
 
 .home-highlight-band h2 {
@@ -123,6 +123,7 @@ body.layout-landing .site-logo {
 
 .highlight-card p {
   font-size: 0.9rem;
+  text-align: left;
   color: #555;
   margin: 0;
 }
