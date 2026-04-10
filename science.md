@@ -63,7 +63,6 @@ The **PLIODIS** project integrates geomorphology, palaeoclimate and palaeovegeta
     </div>
   </div>
 
-
   <div class="flip-card">
     <div class="flip-card-inner">
       <div class="flip-card-front">
@@ -77,7 +76,8 @@ The **PLIODIS** project integrates geomorphology, palaeoclimate and palaeovegeta
         <p>Palaeobiogeographic models combine environmental reconstructions with fossil data to evaluate dispersal scenarios and gene flow across Africa.</p>
       </div>
     </div>
- 
+  </div>
+  
 
   <div class="flip-card">
     <div class="flip-card-inner">
