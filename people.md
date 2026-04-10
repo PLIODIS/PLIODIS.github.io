@@ -97,7 +97,7 @@ header:
     <h3>Simone Kock</h3>
     <p class="role">Postdoctoral Researcher</p>
     <p class="institution">University of the Witwatersrand</p>
-    <p class="expertise">Palaeclimate</p>
+    <p class="expertise">Palynology</p>
     <p class="email"><a href="mailto:simone.kock@wits.ac.za">simone.kock@wits.ac.za</a></p>
   </div>
 
