@@ -28,7 +28,7 @@ header:
     <div class="highlight-card">
       <img src="assets/images/Landscape.jpg" alt="Landscape icon" class="highlight-icon">
       <h3>Landscape</h3>
-      <p>How did changes in drainage systems and landscape topography shape conncectivity between eastern and southern Africa, thereby creatiing/ closing potential dispersal corridors between the regions?</p>
+      <p>How did changes in drainage systems and landscape topography shape conncectivity between eastern and southern Africa, thereby creating/closing potential dispersal corridors between the regions?</p>
     </div>
     <div class="highlight-card">
       <img src="assets/images/Baobab1.jpg" alt="Environment icon" class="highlight-icon">
@@ -68,7 +68,7 @@ header:
     <a href="{{ site.baseurl }}/science/#iii-validation-and-integration" class="objective-card">
       <div class="obj-number">04</div>
       <h3>Integration</h3>
-      <p">Integrate these various datasets to evaluate species diversity and niche partitioning (functional adaptations) in response to ecological changes, appraise the rates of evolutionary changes and the potential impact of gene flow (hybridization), and create dispersal scenarios (palaeobiogeography)</p>
+      <p>Integrate these various datasets to evaluate species diversity and niche partitioning (functional adaptations) in response to ecological changes, appraise the rates of evolutionary changes and the potential impact of gene flow (hybridization), and create dispersal scenarios (palaeobiogeography)</p>
     </a>
 
   </div>
