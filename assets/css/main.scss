@@ -469,6 +469,35 @@ body.layout-landing .page__hero--overlay .page__title {
 .news-card-body p {
   font-size: 0.85rem;
   color: #555;
-  text-align: justify;
   margin: 0;
+}
+
+/* ===============================
+   Post pages
+   =============================== */
+
+body.layout-single .page__content p {
+  text-align: justify;
+  font-size: 1rem;
+}
+
+body.layout-single .page__content figure {
+  margin: 2rem 0;
+}
+
+body.layout-single .page__content figure img {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 6px;
+  border: 1px solid #e0e0e0;
+}
+
+body.layout-single .page__content figure figcaption {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.82rem;
+  color: #777;
+  margin-top: 0.5rem;
 }
