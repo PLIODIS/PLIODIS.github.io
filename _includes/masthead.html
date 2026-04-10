@@ -5,12 +5,15 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
 
+        {%- comment -%} Logo: hide on landing page {%- endcomment -%}
+        {% unless logo_path == empty or page.layout == "landing" %}
+          <a class="site-logo" href="{{ '/' | relative_url }}">
+            <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
+          </a>
+        {% endunless %}
+
+        {%- comment -%} Site title and subtitle: hide on landing page {%- endcomment -%}
         {% unless page.layout == "landing" %}
-          {% unless logo_path == empty %}
-            <a class="site-logo" href="{{ '/' | relative_url }}">
-              <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
-            </a>
-          {% endunless %}
           <a class="site-title" href="{{ '/' | relative_url }}">
             {{ site.masthead_title | default: site.title | escape_once | strip }}
             {% if site.subtitle %}
@@ -32,6 +35,15 @@
           {%- endfor -%}
         </ul>
 
+        {%- comment -%} Optional search toggle {%- endcomment -%}
+        {% if site.search == true %}
+          <button class="search__toggle" type="button">
+            <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
+            <i class="fas fa-search"></i>
+          </button>
+        {% endif %}
+
+        {%- comment -%} Greedy nav toggle for responsive menu {%- endcomment -%}
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
           <div class="navicon"></div>
