@@ -37,7 +37,7 @@ header:
       <p>What role did climate shifts and vegetation change play in the opening or closing of these potential migration routes?</p>
     </div>
     <div class="highlight-card">
-      <img src="assets/images/Taung.jpg" alt="Biology icon" class="highlight-icon">
+      <img src="assets/images/LittleFoot2.jpg" alt="Biology icon" class="highlight-icon">
       <h3>Biology</h3>
       <p>How did early hominins respond to ecological changes? What was the population dynamics between eastern and southern African hominins (e.g., drift, hybridization, endemism)?</p>
     </div>
