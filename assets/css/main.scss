@@ -65,22 +65,6 @@ body.layout-landing .site-logo {
   visibility: visible !important;
 }
 
-/* Hide masthead site title and logo on homepage only */
-body.layout-landing .masthead {
-  background: transparent;
-}
-
-body.layout-landing .site-title {
-  display: none !important;
-}
-
-body.layout-landing .site-logo {
-  display: none !important;
-}
-
-body.layout-landing .page__hero--overlay .page__title {
-  display: none !important;
-}
 /* ===============================
    Homepage body sections
    =============================== */
