@@ -62,7 +62,8 @@ The **PLIODIS** project integrates geomorphology, palaeoclimate and palaeovegeta
       </div>
     </div>
   </div>
-
+  
+<!--
   <div class="flip-card">
     <div class="flip-card-inner">
       <div class="flip-card-front">
@@ -77,7 +78,7 @@ The **PLIODIS** project integrates geomorphology, palaeoclimate and palaeovegeta
       </div>
     </div>
   </div>
-  
+--> 
 
   <div class="flip-card">
     <div class="flip-card-inner">

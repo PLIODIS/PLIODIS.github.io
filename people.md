@@ -88,7 +88,7 @@ header:
     <h3>Guido Pastore</h3>
     <p class="role">Postdoctoral Researcher</p>
     <p class="institution">University College London & AMGC-VUB</p>
-    <p class="expertise">Provenance Studies and Geochronology</p>
+    <p class="expertise">Provenance Studies</p>
     <p class="email"><a href="mailto:g.pastore@ucl.ac.uk">g.pastore@ucl.ac.uk</a></p>
   </div>
 
