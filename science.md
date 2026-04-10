@@ -10,7 +10,7 @@ header:
 
 ## Scientific Framework
 
-The **PLIODIS** project integrates geomorphology, palaeoclimate and palaeovegetation reconstruction, hominin fossil functional morphology, and quantitative modeling to investigate hominin dispersal into southern Africa during the Plio–Pleistocene. Research is organized into three interconnected components, whilst various modeling approaches aim to combine the outcomes of the various strands of investigation within a coherent evolutionary framework.
+The **PLIODIS** project integrates geomorphology, palaeoclimate and palaeovegetation reconstruction, hominin functional morphology, and quantitative modeling to determine hominin dispersal into southern Africa during the Plio–Pleistocene. Research is organized into three interconnected components, whilst various modeling approaches aim to combine the outcomes of the various strands of investigation within a coherent evolutionary framework.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/science/Intro.png" alt="Introduction" width="1500"><br>
@@ -56,13 +56,14 @@ The **PLIODIS** project integrates geomorphology, palaeoclimate and palaeovegeta
       </div>
       <div class="flip-card-back">
         <h4>Mammalian Communities</h4>
-        <p>Hominin fossils are analysed to identify functional anatomical patterns related to locomotion, manipulation, and ecological adaptation.</p>
+        <p>The identification of functional types across various clades will help to determine how early hominins partitioned their environment among themselves and with other mammals. </p>
         <h4>Functional Adaptations</h4>
-        <p>Biomechanical analyses investigate how skeletal morphology reflects functional performance and potential behavioural differences among hominin populations.</p>
+        <p>Functional and biomechanical analyses will shed further light on early hominin behavioural ecology.</p>
       </div>
     </div>
   </div>
 
+<!-->
   <div class="flip-card">
     <div class="flip-card-inner">
       <div class="flip-card-front">
@@ -71,24 +72,24 @@ The **PLIODIS** project integrates geomorphology, palaeoclimate and palaeovegeta
       </div>
       <div class="flip-card-back">
         <h4>Evolutionary Rates</h4>
-        <p>Morphological and environmental datasets are integrated to estimate evolutionary rates and tempo.</p>
+        <p>Morphological and environmental datasets are integrated to estimate rates and tempo of evolutionary change.</p>
         <h4>Ecological Modelling</h4>
         <p>Palaeobiogeographic models combine environmental reconstructions with fossil data to evaluate dispersal scenarios and gene flow across Africa.</p>
       </div>
     </div>
-  </div>
+  </div> -->
 
   <div class="flip-card">
     <div class="flip-card-inner">
       <div class="flip-card-front">
         <img src="{{ site.baseurl }}/assets/images/science/modelling.jpg" alt="Modelling">
-        <div class="flip-label">V. Modelling Approaches</div>
+        <div class="flip-label">IV. Modelling Approaches</div>
       </div>
       <div class="flip-card-back">
         <h4>Quantitative Analyses</h4>
-        <p>Geometric morphometrics and statistical modeling quantify shape variation, disparity, and evolutionary change within and between hominin groups.</p>
+        <p>Geometric morphometrics and statistical modeling tools will be used to quantify shape variation, disparity, and evolutionary change within and between hominin groups.</p>
         <h4>Testing Dispersal Scenarios</h4>
-        <p>Integrated models test hypotheses about the timing, routes, and drivers of hominin dispersal into southern Africa.</p>
+        <p>Integrated models test hypotheses about the timing, routes, and drivers of hominin dispersal into southern Africa and their potential effects of population dynamics, i.e. drift and hybridization</p>
       </div>
     </div>
   </div>
