@@ -23,4 +23,6 @@ header:
 {% endfor %}
 </div>
 
+---
+
 ![ZambeziRiver]({{ site.baseurl }}/assets/images/Zambezi1.jpg)
