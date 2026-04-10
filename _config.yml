@@ -15,6 +15,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
+  - jekyll-sitemap
+
+  gem "jekyll-sitemap"
 
 # Logo
 logo: "/assets/images/LogoPLIODIS.png"
