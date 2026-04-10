@@ -476,16 +476,16 @@ body.layout-landing .page__hero--overlay .page__title {
    Post pages
    =============================== */
 
-body.layout-single .page__content p {
+body.layout--single .page__content p {
   text-align: justify;
   font-size: 1rem;
 }
 
-body.layout-single .page__content figure {
+body.layout--single .page__content figure {
   margin: 2rem 0;
 }
 
-body.layout-single .page__content figure img {
+body.layout--single .page__content figure img {
   width: 100%;
   max-width: 600px;
   display: block;
@@ -494,7 +494,7 @@ body.layout-single .page__content figure img {
   border: 1px solid #e0e0e0;
 }
 
-body.layout-single .page__content figure figcaption {
+body.layout--single .page__content figure figcaption {
   text-align: center;
   font-style: italic;
   font-size: 0.82rem;
