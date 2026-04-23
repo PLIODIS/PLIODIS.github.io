@@ -1,6 +1,6 @@
 ---
 title: "PlioDis Project Officially Launched at VUB"
-date: 2026-04-01
+date: 2026-03-01
 layout: single
 classes: wide
 header:
