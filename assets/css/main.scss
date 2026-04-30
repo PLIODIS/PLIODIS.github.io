@@ -501,3 +501,10 @@ body.layout--single .page__content figure figcaption {
   color: #777;
   margin-top: 0.5rem;
 }
+
+body.layout--single .page__content {
+  width: 100% !important;
+  max-width: 100% !important;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
