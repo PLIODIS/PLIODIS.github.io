@@ -102,7 +102,7 @@ header:
   </div>
 
   <div class="team-member">
-    <img src="/assets/images/people/Eliott Sabourin.jpg" alt="Eliott Sabourin">
+    <img src="/assets/images/people/Eliott-Sabourin.jpeg" alt="Eliott Sabourin">
     <h3>Eliott Sabourin</h3>
     <p class="role">PhD Student</p>
     <p class="institution">VUB Brussels University</p>
