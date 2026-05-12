@@ -113,6 +113,31 @@ header:
 </div>
 
 ---
+## PLIODIS Friends
+
+<div class="team-grid">
+
+  <div class="team-member">
+    <img src="/assets/images/people/bernhard-zipfel.jpg.jpg" alt="Bernhard Zipfel.jpg">
+    <h3>Bernhard Zipfel</h3>
+    <p class="role"></p>
+    <p class="institution">University of the Witwatersrand</p>
+    <p class="expertise">Paleontologist</p>
+    <p class="email"><a href="mailto:Bernhard.Zipfel@wits.ac.za">Bernhard.Zipfel@wits.ac.za</a></p>
+  </div>
+
+  <div class="team-member">
+    <img src="/assets/images/people/eduardo-garzanti.jpg" alt="Eduardo Garzanti">
+    <h3>Eduardo Garzanti</h3>
+    <p class="role"></p>
+    <p class="institution">University of Milano-Bicocca</p>
+    <p class="expertise">Provenance Studies</p>
+    <p class="email"><a href="mailto:eduardo.garzanti@unimib.it">eduardo.garzanti@unimib.it</a></p>
+  </div>
+
+</div>
+
+---
 ## Institutions
 
 <div class="institution-grid">
