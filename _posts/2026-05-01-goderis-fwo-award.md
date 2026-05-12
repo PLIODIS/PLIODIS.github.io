@@ -4,7 +4,7 @@ date: 2026-05-01
 layout: single
 classes: wide
 header:
-  overlay_image: /assets/images/MiomboHead.jpg
+  overlay_image: /assets/images/news/Goderis.jpg
   overlay_filter: 0.3
 excerpt: "Professor Steven Goderis has secured a competitive FWO infrastructure award of nearly €890,000 for the project Clumped and Curious: Isotopic Tales from the Microscale, directly benefiting PLIODIS research."
 ---

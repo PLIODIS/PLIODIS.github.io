@@ -118,7 +118,7 @@ header:
 <div class="team-grid">
 
   <div class="team-member">
-    <img src="/assets/images/people/bernhard-zipfel.jpg.jpg" alt="Bernhard Zipfel.jpg">
+    <img src="/assets/images/people/bernhard-zipfel.jpg" alt="Bernhard Zipfel.jpg">
     <h3>Bernhard Zipfel</h3>
     <p class="role"></p>
     <p class="institution">University of the Witwatersrand</p>
