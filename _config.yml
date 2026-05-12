@@ -34,3 +34,8 @@ show_powered_by: false
 # Markdown
 markdown: kramdown
 
+collections:
+  opportunities:
+    output: true
+    permalink: /opportunities/:name/
+

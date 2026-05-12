@@ -18,8 +18,8 @@
    Hide title ONLY on landing/homepage
    =============================== */
 
-body.layout-landing .page__hero--overlay .page__title {
-  display: none;
+body.layout--landing .page__hero--overlay .page__title {
+  display: none !important;
 }
 
 /* ===============================
@@ -54,16 +54,11 @@ body.layout-landing .page__hero--overlay .page__title {
   text-align: center;
 }
 
-body.layout-landing .site-title,
-body.layout-landing .site-logo {
+body.layout--landing .site-title,
+body.layout--landing .site-logo {
   display: none !important;
 }
 
-.masthead .site-title,
-.masthead .site-logo {
-  display: block !important;
-  visibility: visible !important;
-}
 
 body.layout-landing .page__hero--overlay .page__title {
   display: none !important;
