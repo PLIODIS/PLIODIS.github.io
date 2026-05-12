@@ -503,3 +503,73 @@ body.layout--single .page__content {
   padding-left: 2rem !important;
   padding-right: 2rem !important;
 }
+
+/* ===============================
+   Mobile responsive fixes
+   =============================== */
+
+@media (max-width: 768px) {
+
+  /* Hero layout stacks vertically on mobile */
+  .hero-custom {
+    flex-direction: column;
+    align-items: center;
+    margin-top: -80px;
+    padding: 1rem;
+    gap: 1rem;
+  }
+
+  .hero-logo {
+    margin-left: 0;
+  }
+
+  .hero-logo img {
+    max-width: 260px;
+  }
+
+  .hero-text h1 {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  /* People grid: 2 columns on mobile */
+  .team-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 1.2rem;
+  }
+
+  .team-member img {
+    width: 120px !important;
+    height: 120px !important;
+  }
+
+  /* Institution grid: 3 columns on mobile */
+  .institution-grid {
+    grid-template-columns: repeat(3, 1fr) !important;
+  }
+
+  /* Highlight grid: single column on mobile */
+  .highlight-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* Objective grid: single column on mobile */
+  .objective-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* Science flip cards: 2 per row on mobile */
+  .science-grid {
+    flex-wrap: wrap !important;
+  }
+
+  .flip-card {
+    width: calc(50% - 0.75rem) !important;
+  }
+
+  /* News grid: single column on mobile */
+  .news-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+}
