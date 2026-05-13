@@ -21,7 +21,7 @@ The fellowship is based at AMGC at the Vrije Universiteit Brussel, under the dir
 
 ## Host Institution
 
-This PhD project will be based at the **Archaeology, Environmental Changes & Geo-Chemistry Research Group, the Vrije Universiteit Brussel, Belgium** under the directorship of Prof. Prof. Gabriele Macho.
+This PhD project will be based at the **Archaeology, Environmental Changes & Geo-Chemistry Research Group, the Vrije Universiteit Brussel, Belgium** under the directorship of Prof. Gabriele Macho.
 
 ## Project Tasks
 
