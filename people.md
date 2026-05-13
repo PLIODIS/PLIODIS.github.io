@@ -106,7 +106,7 @@ header:
     <h3>Eliott Sabourin</h3>
     <p class="role">PhD Student</p>
     <p class="institution">VUB Brussels University</p>
-    <p class="expertise"></p>
+    <p class="expertise">Mammalian Functional Morphology</p>
     <p class="email"><a href="mailto:Eliott.Sabourin@vub.be">Eliott.Sabourin@vub.be</a></p>
   </div>
 
@@ -118,7 +118,7 @@ header:
 <div class="team-grid">
 
   <div class="team-member">
-    <img src="/assets/images/people/bernhard-zipfel.jpg" alt="Bernhard Zipfel.jpg">
+    <img src="/assets/images/people/bernhard-zipfel.jpg" alt="Bernhard Zipfel">
     <h3>Bernhard Zipfel</h3>
     <p class="role"></p>
     <p class="institution">University of the Witwatersrand</p>
@@ -135,6 +135,15 @@ header:
     <p class="email"><a href="mailto:eduardo.garzanti@unimib.it">eduardo.garzanti@unimib.it</a></p>
   </div>
 
+  <div class="team-member">
+    <img src="/assets/images/people/gideon-chinamatira.jpeg" alt="Gideon Chinamatira">
+    <h3>Gideon Chinamatira</h3>
+    <p class="role"></p>
+    <p class="institution">University of the Witwatersrand</p>
+    <p class="expertise"> X-ray CT Imaging Physicist</p>
+    <p class="email"><a href="mailto:gideon.chinamatira@wits.ac.za">gideon.chinamatira@wits.ac.za</a></p>
+  </div>
+  
 </div>
 
 ---

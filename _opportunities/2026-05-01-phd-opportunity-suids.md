@@ -17,7 +17,6 @@ Pigs are well-known for their habitat and dietary diversity, their social/behavi
 
 South African climate changes during the Plio-Pleistocene transition are poorly understood owing to the complex interplay between global (e.g., aridification) and more regional (e.g., shift of the Intertropical Convergence Zone, onset of the Walker circulation etc.) trends. An appraisal of ecological changes is further complicated by the insecure dating of South African sites, which makes it impossible to temporally constrain the hominin fossil record. Detailed analyses of the functional adaptations of pigs and an assessment of how they exploited -and partitioned- their habitat(s) promises to overcome some of these problems. This is the aim of this project: to throw light on the ecological conditions in South Africa during the Plio-Pleistocene and to reconstruct hominin environments through the lens of pig ecology.
 
-
 ## Host Institution
 
 This PhD project will be based at the **University of the Witwatersrand, Evolutionary Studies Institute** under the directorship of Prof. Marion Bamford. The project is part of and funded by [ERC\_101141770\_PLIODIS](https://pliodis.github.io). The student will interact with Prof. Gabriele Macho at [AMGC-VUB](https://amgc.research.vub.be) and other members of the team.
