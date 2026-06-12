@@ -11,7 +11,8 @@ header:
 ## Open Positions
 
 <div class="news-grid">
-{% for opp in site.opportunities %}
+{% assign sorted_opps = site.opportunities | sort: 'date' | reverse %}
+{% for opp in sorted_opps %}
   <a href="{{ opp.url | relative_url }}" class="news-card">
     {% if opp.header.overlay_image %}
       <div class="news-card-image" style="background-image: url('{{ opp.header.overlay_image }}')"></div>
