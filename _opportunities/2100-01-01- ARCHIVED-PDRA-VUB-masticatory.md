@@ -1,6 +1,6 @@
 ---
-title: "PDRA Opportunity: Modelling the functional adaptations of the primate masticatory apparatus at VUB"
-date: 2026-05-13
+title: "ARCHIVED:PDRA Opportunity: Modelling the functional adaptations of the primate masticatory apparatus at VUB"
+date: 2100-01-01
 layout: single
 classes: wide
 header:
