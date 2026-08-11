@@ -102,6 +102,15 @@ header:
   </div>
 
   <div class="team-member">
+    <img src="/assets/images/people/fabio-alfieri.png" alt="Fabio Alfieri">
+    <h3>Fabio Alfieri</h3>
+    <p class="role">Postdoctoral Researcher</p>
+    <p class="institution">VUB Brussels University</p>
+    <p class="expertise">Morphology and Modelling</p>
+    <p class="email"><a href="mailto:fabio.alfieri@vub.be">fabio.alfieri@vub.be</a></p>
+  </div>
+
+  <div class="team-member">
     <img src="/assets/images/people/Eliott-Sabourin.jpg" alt="Eliott Sabourin">
     <h3>Eliott Sabourin</h3>
     <p class="role">PhD Student</p>
