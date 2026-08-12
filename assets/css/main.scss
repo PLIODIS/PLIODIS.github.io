@@ -573,3 +573,71 @@ body.layout--single .page__content {
   }
 
 }
+
+/* ===============================
+   Homepage news list
+   =============================== */
+
+.home-news {
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 2rem 1rem;
+}
+
+.home-news h2 {
+  color: #40514e;
+  margin-bottom: 1.5rem;
+}
+
+.home-news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.home-news-list li {
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.home-news-list li a {
+  display: flex;
+  align-items: baseline;
+  gap: 1.5rem;
+  padding: 0.85rem 0;
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.15s ease;
+}
+
+.home-news-list li a:hover {
+  color: #40514e;
+  text-decoration: none;
+}
+
+.home-news-date {
+  flex-shrink: 0;
+  width: 70px;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #999;
+}
+
+.home-news-title {
+  font-size: 0.95rem;
+}
+
+.home-news-more {
+  margin-top: 1rem;
+}
+
+.home-news-more a {
+  font-size: 0.85rem;
+  color: #40514e;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.home-news-more a:hover {
+  text-decoration: underline;
+}
