@@ -75,17 +75,16 @@ header:
   </div>
 </div>
 
-<div class="home-news">
-  <h2>Latest News</h2>
   <ul class="home-news-list">
   {% for post in site.posts limit:5 %}
     <li>
       <a href="{{ post.url | relative_url }}">
         <span class="home-news-date">{{ post.date | date: "%b %Y" }}</span>
         <span class="home-news-title">{{ post.title }}</span>
+        {% if post.header.overlay_image %}
+          <span class="home-news-thumb" style="background-image: url('{{ post.header.overlay_image }}')"></span>
+        {% endif %}
       </a>
     </li>
   {% endfor %}
   </ul>
-  <p class="home-news-more"><a href="{{ site.baseurl }}/news/">All news →</a></p>
-</div>

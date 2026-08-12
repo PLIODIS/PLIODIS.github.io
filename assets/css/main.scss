@@ -601,9 +601,9 @@ body.layout--single .page__content {
 
 .home-news-list li a {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   gap: 1.5rem;
-  padding: 0.85rem 0;
+  padding: 0.6rem 0;
   text-decoration: none;
   color: inherit;
   transition: color 0.15s ease;
@@ -625,6 +625,16 @@ body.layout--single .page__content {
 
 .home-news-title {
   font-size: 0.95rem;
+  flex: 1;
+}
+
+.home-news-thumb {
+  flex-shrink: 0;
+  width: 80px;
+  height: 48px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 4px;
 }
 
 .home-news-more {
