@@ -75,6 +75,8 @@ header:
   </div>
 </div>
 
+<div class="home-news">
+  <h2>Latest News</h2>
   <ul class="home-news-list">
   {% for post in site.posts limit:5 %}
     <li>
@@ -88,3 +90,5 @@ header:
     </li>
   {% endfor %}
   </ul>
+  <p class="home-news-more"><a href="{{ site.baseurl }}/news/">All news →</a></p>
+</div>
