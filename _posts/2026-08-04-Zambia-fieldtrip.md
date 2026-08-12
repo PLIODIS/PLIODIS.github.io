@@ -1,5 +1,5 @@
 ---
-title: Travel blog: Fieldwork in Zambia, 2026"
+title: "Travel blog: Fieldwork in Zambia, 2026"
 date: 2026-08-04
 layout: single
 classes: wide
