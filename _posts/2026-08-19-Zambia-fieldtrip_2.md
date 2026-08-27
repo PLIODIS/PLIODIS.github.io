@@ -1,6 +1,6 @@
 ---
 title: "Travel blog: Fieldwork in Zambia, 2026 - Part 2"
-date: 2026-08-04
+date: 2026-08-19
 layout: single
 classes: wide
 header:
@@ -65,7 +65,7 @@ The Kafue sampling really completes the plan. To weigh the possibility of a once
 
 ## Lusaka and the University
 
-Heading back to the capital on the 17th, the team was satisfied, and tired, after the long loop around Zambia. One task remained: a [research seminar](/assets/images/news/Zambia/Research%20Seminar.pdf) at the Zambia School of Mines, where we met Professor Kawawa Banda to share our background and our research plans. The chance to discuss water management, sediment dispersal, geo-thermochronology and hominin migration in one room was the perfect end to an extraordinary trip.
+Heading back to the capital on the 17th, the team was satisfied, and tired, after the long loop around Zambia. One task remained: a [research seminar](/assets/images/news/Zambia/Research_Seminar.pdf) at the Zambia School of Mines, where we met Professor Kawawa Banda to share our background and our research plans. The chance to discuss water management, sediment dispersal, geo-thermochronology and hominin migration in one room was the perfect end to an extraordinary trip.
 
 <figure>
   <img src="/assets/images/news/Zambia/Zambia-12.jpg" alt="Seminar at UNZA" style="max-width: 700px; display: block; margin: 0 auto;">
