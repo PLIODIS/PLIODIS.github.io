@@ -30,7 +30,7 @@ Before entering the Luangwa Valley proper, we reached the uppermost part of the 
 Then we faced the same problem as any early hominin would have: how to cross the Luangwa River? To enter the valley and reach Chama, we were relying on a single bridge, and there was no way to know from a distance whether it was still standing. A local contact told us he had seen it, and the satellite images were reasonably recent, but others advised us to drive all the way back to Lusaka and enter the valley from the south. We could only go and see for ourselves. A long dirt road stretched on into a national park, and among the tracks of elephants we descended the flanks of the valley. As we neared the crossing, morale swung between anxiety and hope. And then, finally, the bridge was there. We could enter the Luangwa!
 
 <figure>
-  <img src="/assets/images/news/Zambia/Zambia-8.jpg" alt="Ecological and Forest maps" style="max-width: 700px; display: block; margin: 0 auto;">
+  <img src="/assets/images/news/Zambia/Zambia-8.jpg" alt="Ecological and Forest maps" style="max-width: 900px; display: block; margin: 0 auto;">
 </figure>
 
 A change of landscape, and a change of environment! We left the plateau behind, with its characteristic evergreen miombo trees (*Brachystegia*, *Julbernardia* and *Isoberlinia*) and the swampy dambos of the Bangweulu Wetlands. The Luangwa welcomed us instead with the sparser, less densely forested mopane woodland (*Colophospermum mopane*). Peering from the car through this thinner vegetation, and now crossing major national parks, we caught our first sight of baboons, warthogs, impalas and elephants. The drier climate also favoured a tree we had not yet seen: the baobab (*Adansonia digitata*).
