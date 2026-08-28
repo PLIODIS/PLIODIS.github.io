@@ -119,6 +119,15 @@ header:
     <p class="email"><a href="mailto:Eliott.Sabourin@vub.be">Eliott.Sabourin@vub.be</a></p>
   </div>
 
+  <div class="team-member">
+    <img src="/assets/images/people/evangelos-tsatsalis.jpg" alt="Eliott Sabourin">
+    <h3>Eliott Sabourin</h3>
+    <p class="role">PhD Student</p>
+    <p class="institution">VUB Brussels University- University of the Witwatersrand</p>
+    <p class="expertise">Hominin Mastication</p>
+    <p class="email"><a href="mailto:etsatsa@geo.auth.gr">etsatsa@geo.auth.gr</a></p>
+  </div>
+
 </div>
 
 ---

@@ -3,6 +3,7 @@ title: "Travel blog: Fieldwork in Zambia, 2026"
 date: 2026-08-04
 layout: single
 classes: wide
+news_category: "Field report"
 header:
   overlay_image: /assets/images/news/Zambia/Zambia-2.jpeg
   overlay_filter: 0.3

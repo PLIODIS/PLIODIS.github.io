@@ -3,6 +3,7 @@ title: "FWO Infrastructure Award for AMGC — Benefiting PLIODIS"
 date: 2026-05-01
 layout: single
 classes: wide
+news_category: "Science"
 header:
   overlay_image: /assets/images/news/Goderis.jpg
   overlay_filter: 0.3

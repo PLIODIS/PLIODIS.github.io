@@ -3,6 +3,7 @@ title: "PlioDis Project Officially Launched at VUB"
 date: 2026-03-01
 layout: single
 classes: wide
+news_category: "Science"
 header:
   overlay_image: /assets/images/MiomboHead.jpg
   overlay_filter: 0.3

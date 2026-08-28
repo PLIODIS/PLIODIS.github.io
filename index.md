@@ -44,6 +44,30 @@ header:
   </div>
 </div>
 
+<div class="home-news">
+  <div class="home-news-header">
+    <h2>Latest News</h2>
+    <a href="{{ site.baseurl }}/news/" class="home-news-viewall">View all news</a>
+  </div>
+
+  <div class="home-news-grid">
+  {% for post in site.posts limit:3 %}
+    <a href="{{ post.url | relative_url }}" class="home-news-card">
+      <div class="home-news-card-image"{% if post.header.overlay_image %} style="background-image: url('{{ post.header.overlay_image | relative_url }}')"{% endif %}>
+        {% if post.news_category %}
+          <span class="home-news-tag home-news-tag--{{ post.news_category | slugify }}">{{ post.news_category }}</span>
+        {% endif %}
+      </div>
+      <div class="home-news-card-body">
+        <p class="home-news-card-date">{{ post.date | date: "%d %B %Y" }}</p>
+        <h3>{{ post.title }}</h3>
+        <p class="home-news-card-excerpt">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+      </div>
+    </a>
+  {% endfor %}
+  </div>
+</div>
+
 <div class="home-objectives">
   <h2>Research Objectives</h2>
   <div class="objective-grid">
@@ -75,20 +99,3 @@ header:
   </div>
 </div>
 
-<div class="home-news">
-  <h2>Latest News</h2>
-  <ul class="home-news-list">
-  {% for post in site.posts limit:5 %}
-    <li>
-      <a href="{{ post.url | relative_url }}">
-        <span class="home-news-date">{{ post.date | date: "%b %Y" }}</span>
-        <span class="home-news-title">{{ post.title }}</span>
-        {% if post.header.overlay_image %}
-          <span class="home-news-thumb" style="background-image: url('{{ post.header.overlay_image }}')"></span>
-        {% endif %}
-      </a>
-    </li>
-  {% endfor %}
-  </ul>
-  <p class="home-news-more"><a href="{{ site.baseurl }}/news/">All news →</a></p>
-</div>
