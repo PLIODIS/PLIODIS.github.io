@@ -72,25 +72,25 @@ header:
   <h2>Research Objectives</h2>
   <div class="objective-grid">
 
-    <a href="{{ site.baseurl }}/science/#i-geomorphology" class="objective-card">
+    <a href="{{ site.baseurl }}/science/#i-geomorphology" class="objective-card" style="background-image: url('{{ site.baseurl }}/assets/images/Victoria.jpg')">
       <div class="obj-number">01</div>
       <h3>Geomorphology</h3>
       <p>Determine geomorphological and palaeoecological changes in the Kalahari/proto-Limpopo basin and Zambezian region during the Plio-Pleistocene</p>
     </a>
 
-    <a href="{{ site.baseurl }}/science/#ii-palaeoclimate-and-palaeoenvironment" class="objective-card">
+    <a href="{{ site.baseurl }}/science/#ii-palaeoclimate-and-palaeoenvironment" class="objective-card" style="background-image: url('{{ site.baseurl }}/assets/images/Kafue.jpg')">
       <div class="obj-number">02</div>
       <h3>Palaeoclimate</h3>
       <p>Create dynamic palaeo-precipitation and palaeo-vegetation models from multiple marine and terrestrial archives</p>
     </a>
 
-    <a href="{{ site.baseurl }}/science/#iii-morphology" class="objective-card">
+    <a href="{{ site.baseurl }}/science/#iii-morphology" class="objective-card" style="background-image: url('{{ site.baseurl }}/assets/images/Malawi.jpg')">
       <div class="obj-number">03</div>
       <h3>Morphology</h3>
       <p>Carry out detailed morphological and functional analyses of hominin and non-hominin fossil remains</p>
     </a>
 
-    <a href="{{ site.baseurl }}/science/#iii-validation-and-integration" class="objective-card">
+    <a href="{{ site.baseurl }}/science/#iii-validation-and-integration" class="objective-card" style="background-image: url('{{ site.baseurl }}/assets/images/Miombo.jpg')">
       <div class="obj-number">04</div>
       <h3>Integration</h3>
       <p>Integrate these various datasets to evaluate species diversity and niche partitioning (functional adaptations) in response to ecological changes, appraise the rates of evolutionary changes and the potential impact of gene flow (hybridization), and create dispersal scenarios (palaeobiogeography)</p>

@@ -146,6 +146,7 @@ body.layout-landing .page__hero--overlay .page__title {
 }
 
 .objective-card {
+  position: relative;
   display: flex;
   flex-direction: column;
   padding: 1.5rem;
@@ -153,7 +154,24 @@ body.layout-landing .page__hero--overlay .page__title {
   border-radius: 8px;
   text-decoration: none;
   color: inherit;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
   transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.objective-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.82);
+  transition: background 0.2s ease;
+  z-index: 0;
+}
+
+.objective-card > * {
+  position: relative;
+  z-index: 1;
 }
 
 .objective-card:hover {
@@ -162,10 +180,14 @@ body.layout-landing .page__hero--overlay .page__title {
   text-decoration: none;
 }
 
+.objective-card:hover::before {
+  background: rgba(255, 255, 255, 0.72);
+}
+
 .obj-number {
   font-size: 2rem;
   font-weight: 700;
-  color: #c8d8c8;
+  color: #40514e;
   line-height: 1;
   margin-bottom: 0.5rem;
 }
