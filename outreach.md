@@ -33,7 +33,7 @@ header:
       </figure>
       <figure class="outreach-slide">
         <img src="/assets/images/outreach/Lusaka/lusaka-3.jpeg" alt="K. Banda presenting">
-        <figcaption>K. Banda (UNZA)</figcaption>
+        <figcaption>Kawawa Banda (UNZA)</figcaption>
       </figure>
       <figure class="outreach-slide">
         <img src="/assets/images/outreach/Lusaka/lusaka-4.jpeg" alt="Matthew Fox presenting">
