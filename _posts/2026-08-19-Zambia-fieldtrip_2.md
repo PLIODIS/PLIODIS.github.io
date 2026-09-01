@@ -86,7 +86,6 @@ On the trail of hominin migration, our research led us to migrate ourselves, to 
 - ~4,500 km driven
 - 39 mud samples
 - 43 sand samples
-- 49 plant samples
 - 33 rivers sampled
 - 4 major drainages (Luapula-Chambeshi, Luangwa, Zambezi, Kafue)
 
