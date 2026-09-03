@@ -13,7 +13,7 @@ Thibaut Caley, Antoine Souron, Kevin T. Uno, and Gabriele A. Macho. *"Climate an
 
 ![Kalahari]({{ site.baseurl }}/assets/images/Kalahari.jpg)
 
-## List of Contributions
+## Presentations
 
 <div style="display: flex; flex-wrap: wrap; gap: 2em; align-items: flex-start;">
 
