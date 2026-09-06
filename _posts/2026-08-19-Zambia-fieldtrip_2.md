@@ -44,7 +44,7 @@ Over the next couple of days, we descended twice more to the river, over difficu
 
 ## Mfuwe and Steve
 
-Following the Luangwa downstream, we knew we had to pay a visit to Steve Tolan, who runs the Chipembele Wildlife Education Trust ([olsenanimaltrust.org/chipembele](https://www.olsenanimaltrust.org/chipembele)) and is searching for the first early-hominin fossil in the Luangwa Valley. Steve welcomed us and showed us his outstanding outreach museum and his fossil finds from the valley (not yet of our ancestors). We talked about hominins and the remarkable environment around Mfuwe, though for far too short a time before it was already time to climb back into the car.
+Following the Luangwa downstream, we knew we had to pay a visit to Steve Tolan, who runs the Chipembele Wildlife Education Trust ([chipembele.org](www.chipembele.org)) and is searching for the first early-hominin fossil in the Luangwa Valley. Steve welcomed us and showed us his outstanding outreach museum and his fossil finds from the valley (not yet of our ancestors). We talked about hominins and the remarkable environment around Mfuwe, though for far too short a time before it was already time to climb back into the car.
 
 <figure>
   <img src="/assets/images/news/Zambia/Zambia-10.jpg" alt="Steve and his fossils" style="max-width: 700px; display: block; margin: 0 auto;">
