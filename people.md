@@ -120,12 +120,21 @@ header:
   </div>
 
   <div class="team-member">
-    <img src="/assets/images/people/evangelos-tsatsalis.jpg" alt="Eliott Sabourin">
+    <img src="/assets/images/people/evangelos-tsatsalis.jpg" alt="Evangelos Tsatsalis">
     <h3>Evangelos Tsatsalis</h3>
     <p class="role">PhD Student</p>
     <p class="institution">Evolutionary Studies Institute Wits - AMGC-VUB</p>
     <p class="expertise">Hominin Mastication</p>
     <p class="email"><a href="mailto:etsatsa@geo.auth.gr">etsatsa@geo.auth.gr</a></p>
+  </div>
+
+  <div class="team-member">
+    <img src="/assets/images/people/giovanni-deramo.png" alt="Giovanni D'Eramo">
+    <h3>Evangelos Tsatsalis</h3>
+    <p class="role">PhD Student</p>
+    <p class="institution">Evolutionary Studies Institute Wits - AMGC-VUB</p>
+    <p class="expertise">Suid Evolution</p>
+    <p class="email"><a href="mailto:giovannideramo1@gmail.com">giovannideramo1@gmail.com</a></p>
   </div>
 
 </div>
