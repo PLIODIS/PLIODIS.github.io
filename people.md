@@ -130,7 +130,7 @@ header:
 
   <div class="team-member">
     <img src="/assets/images/people/giovanni-deramo.png" alt="Giovanni D'Eramo">
-    <h3>Evangelos Tsatsalis</h3>
+    <h3>Giovanni D'Eramo</h3>
     <p class="role">PhD Student</p>
     <p class="institution">Evolutionary Studies Institute Wits - AMGC-VUB</p>
     <p class="expertise">Suid Evolution</p>
