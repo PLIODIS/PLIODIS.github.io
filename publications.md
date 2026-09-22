@@ -30,4 +30,18 @@ Thibaut Caley, Antoine Souron, Kevin T. Uno, and Gabriele A. Macho. *"Climate an
     </figcaption>
   </figure>
 
+  <figure style="width: 300px; max-width: 100%; margin: 0;">
+    <a href="/assets/images/posters/ESHE2026_Sabourin.pdf">
+      <img src="/assets/images/posters/ESHE2026_Sabourin.jpg"
+           alt="Poster: Modelling hominin dispersal to southern Africa"
+           style="width: 100%; border: 1px solid #ddd;">
+    </a>
+    <figcaption>
+      <em>"Multi-trophic patterns in mammalian joint and bone morphology
+      and their potential for palaeoenvironmental reconstruction."</em><br>
+      Eliott Sabourin and Gabriele A. Macho.<br>
+      European Society for the Study of Human Evolution Meeting in Burgos, 17-19 September 2026.
+    </figcaption>
+  </figure>
+
 </div>

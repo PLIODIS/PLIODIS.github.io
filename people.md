@@ -111,6 +111,15 @@ header:
   </div>
 
   <div class="team-member">
+    <img src="/assets/images/people/lea-doliveira.jpg" alt="Léa d'Oliveira">
+    <h3>Léa d'Oliveira</h3>
+    <p class="role">Postdoctoral Researcher</p>
+    <p class="institution">University of Bordeaux</p>
+    <p class="expertise">Climate modelling</p>
+    <p class="email"><a href="mailto: Lea.doliveira@u-bordeaux.fr"> Lea.doliveira@u-bordeaux.fr</a></p>
+  </div>
+
+  <div class="team-member">
     <img src="/assets/images/people/Eliott-Sabourin.jpg" alt="Eliott Sabourin">
     <h3>Eliott Sabourin</h3>
     <p class="role">PhD Student</p>
