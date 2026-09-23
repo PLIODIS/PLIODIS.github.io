@@ -179,6 +179,15 @@ header:
     <p class="expertise"> X-ray CT Imaging Physicist</p>
     <p class="email"><a href="mailto:gideon.chinamatira@wits.ac.za">gideon.chinamatira@wits.ac.za</a></p>
   </div>
+
+  <div class="team-member">
+    <img src="/assets/images/people/shaw-badenhorst.png" alt="Shaw Badenhorst">
+    <h3>Shaw Badenhorst</h3>
+    <p class="role"></p>
+    <p class="institution">University of the Witwatersrand</p>
+    <p class="expertise">Archaeologist</p>
+    <p class="email"><a href="mailto:Shaw.Badenhorst@wits.ac.za">Shaw.Badenhorst@wits.ac.za</a></p>
+  </div>
   
 </div>
 
