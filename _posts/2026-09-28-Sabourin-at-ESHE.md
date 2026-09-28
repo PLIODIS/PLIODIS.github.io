@@ -16,9 +16,9 @@ Last week, PLIODIS and AMGC PhD student **Eliott Sabourin** presented a poster a
   <img src="/assets/images/news/Burgos/Eliott.jpeg" alt="Eliott Sabourin at the poster" style="max-width: 400px; display: block; margin: 0 auto;">
 </figure>
 
-The outcomes of this research will serve as a baseline for reconstructing Plio–Pleistocene **environments** in southern Africa.
+The outcomes of this research will serve as a baseline for reconstructing Plio–Pleistocene environments in southern Africa.
 You can find the poster **[here](https://pliodis.github.io/assets/images/posters/ESHE2026_Sabourin.pdf)**.
 
 <figure>
-  <img src="/assets/images/news/Burgos/Burgos.jpg" alt="Burgos city view" style="max-width: 500px; display: block; margin: 0 auto;">
+  <img src="/assets/images/news/Burgos/Burgos.jpg" alt="Burgos city view" style="max-width: 800px; display: block; margin: 0 auto;">
 </figure>
