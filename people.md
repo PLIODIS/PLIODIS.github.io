@@ -188,6 +188,15 @@ header:
     <p class="expertise">Archaeologist</p>
     <p class="email"><a href="mailto:Shaw.Badenhorst@wits.ac.za">Shaw.Badenhorst@wits.ac.za</a></p>
   </div>
+
+  <div class="team-member">
+    <img src="/assets/images/people/angela-effiom.jpg" alt="Angela Effiom">
+    <h3>Angela Effiom</h3>
+    <p class="role"></p>
+    <p class="institution">University of the Witwatersrand</p>
+    <p class="expertise">Palaeoecology</p>
+    <p class="email"><a href="mailto:angela.effiom@wits.ac.za">angela.effiom@wits.ac.za</a></p>
+  </div>
   
 </div>
 
