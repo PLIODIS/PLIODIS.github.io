@@ -1,6 +1,8 @@
 ---
 title: "Post-doctoral Fellowship in Deep Time Hominin Evolutionary Modelling"
 date: 2026-10-12
+layout: single
+classes: wide
 excerpt: "PLIODIS is recruiting a postdoctoral researcher in mathematical and theoretical modelling of Plio-Pleistocene hominin evolution, based at Vrije Universiteit Brussel."
 header:
   overlay_image: /assets/images/Victoria.jpg
