@@ -5,7 +5,7 @@ layout: single
 classes: wide
 excerpt: "PLIODIS is recruiting a postdoctoral researcher in mathematical and theoretical modelling of Plio-Pleistocene hominin evolution, based at Vrije Universiteit Brussel."
 header:
-  overlay_image: /assets/images/Victoria.jpg
+  overlay_image: /assets/images/institutions/amgc-vub.png
   overlay_filter: 0.3
 ---
 
