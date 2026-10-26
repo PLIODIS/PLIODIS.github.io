@@ -158,7 +158,7 @@ header:
 </div>
 
 ---
-## PLIODIS Friends
+## PLIODIS Friends and External Collaborators
 
 <div class="team-grid">
 
