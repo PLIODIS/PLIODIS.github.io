@@ -195,7 +195,16 @@ header:
     <p class="role"></p>
     <p class="institution">University of the Witwatersrand</p>
     <p class="expertise">Archaeologist</p>
-    <p class="email"><a href="mailto:Shaw.Badenhorst@wits.ac.za">Shaw.Badenhorst@wits.ac.za</a></p>
+    <p class="email"><a href="mailto:shaw.Badenhorst@wits.ac.za">shaw.Badenhorst@wits.ac.za</a></p>
+  </div>
+
+  <div class="team-member">
+    <img src="/assets/images/people/andreas-koutsodendris.jpg" alt="Andreas Koutsodendris">
+    <h3>Andreas Koutsodendris</h3>
+    <p class="role"></p>
+    <p class="institution">Universität Heidelberg</p>
+    <p class="expertise">Paleoclimate and Paleoenvironment</p>
+    <p class="email"><a href="mailto:andreas.koutsodendris@geow.uni-heidelberg.de">andreas.koutsodendris@geow.uni-heidelberg.de</a></p>
   </div>
  
 </div>
