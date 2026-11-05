@@ -9,6 +9,8 @@ header:
 ---
 ## List of Publications
 
+Gabriele A. Macho, Simon Neubauer, Clement Zanolli, Pieter Vermeesch, Kevin L. Kuykendall, Andreas Koutsodendris, Laurin S. Kolb & Thibaut Caley. *"The Taung child and the biogeographic and palaeoclimatic drivers of southern African hominin diversity."* Nature Palaeoecosystems (2026): 7. [DOI: 10.1038/s44513-026-00008-2](https://doi.org/10.1038/s44513-026-00008-2)
+
 Thibaut Caley, Antoine Souron, Kevin T. Uno, and Gabriele A. Macho. *"Climate and human evolution: insights from marine records."* Annual Review of Marine Science 17, no. 1 (2025): 23-53. [DOI: 10.1146/annurev-marine-032223-031306](https://doi.org/10.1146/annurev-marine-032223-031306)
 
 ![Kalahari]({{ site.baseurl }}/assets/images/Kalahari.jpg)
