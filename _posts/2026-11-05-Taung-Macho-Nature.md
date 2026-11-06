@@ -16,7 +16,7 @@ The findings demonstrate that hydrological fluctuations around the Limpopo Valle
 
 
 <figure>
-  <img src="/assets/images/news/11-05-paper_figure.png" alt="Paper Figure" style="max-width: 800px; display: block; margin: 0 auto;">
+  <img src="/assets/images/news/11-05-paper_figure.png" alt="Paper Figure" style="max-width: 600px; display: block; margin: 0 auto;">
 </figure>
 
 [Read the full paper in *Nature Paleoecosystems*](https://doi.org/10.1038/s44513-026-00008-2){: .btn .btn--primary}
