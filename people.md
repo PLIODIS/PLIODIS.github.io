@@ -207,6 +207,15 @@ header:
     <p class="email"><a href="mailto:andreas.koutsodendris@geow.uni-heidelberg.de">andreas.koutsodendris@geow.uni-heidelberg.de</a></p>
   </div>
  
+  <div class="team-member">
+    <img src="/assets/images/people/olga-otero.png" alt="Olga Otero">
+    <h3>Olga Otero</h3>
+    <p class="role"></p>
+    <p class="institution">Université de Poitiers</p>
+    <p class="expertise">Palaeoichthyology'</p>
+    <p class="email"><a href="mailto:olga.otero@univ-poitiers.fr">olga.otero@univ-poitiers.fr</a></p>
+  </div>
+ 
 </div>
 
 ---
