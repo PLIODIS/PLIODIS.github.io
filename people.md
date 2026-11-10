@@ -212,7 +212,7 @@ header:
     <h3>Olga Otero</h3>
     <p class="role"></p>
     <p class="institution">Université de Poitiers</p>
-    <p class="expertise">Palaeoichthyology'</p>
+    <p class="expertise">Palaeoichthyology</p>
     <p class="email"><a href="mailto:olga.otero@univ-poitiers.fr">olga.otero@univ-poitiers.fr</a></p>
   </div>
  
