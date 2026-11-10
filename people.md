@@ -116,7 +116,7 @@ header:
     <p class="role">Postdoctoral Researcher</p>
     <p class="institution">University of Bordeaux</p>
     <p class="expertise">Climate modelling</p>
-    <p class="email"><a href="mailto: Lea.doliveira@u-bordeaux.fr"> Lea.doliveira@u-bordeaux.fr</a></p>
+    <p class="email"><a href="mailto:Lea.doliveira@u-bordeaux.fr">Lea.doliveira@u-bordeaux.fr</a></p>
   </div>
 
   <div class="team-member">
