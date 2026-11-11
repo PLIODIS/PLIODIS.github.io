@@ -19,7 +19,7 @@ header:
     <p class="expertise">Bioarchaeology</p>
     <p class="email"><a href="mailto:Gabriele.Macho@vub.be">Gabriele.Macho@vub.be</a></p>
   </div>
-
+  
   <div class="team-member">
     <img src="/assets/images/people/marion-bamford.jpg" alt="Marion Bamford">
     <h3>Marion Bamford</h3>
